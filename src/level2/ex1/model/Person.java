@@ -11,14 +11,6 @@ public class Person {
         this.surnames = surnames;
     }
 
-    public int getAge() {
-        return age;
-    }
-
-    public String getName() {
-        return name;
-    }
-
     @Override
     public String toString() {
         return "Person{" +
