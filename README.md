@@ -1,6 +1,6 @@
 # 🧑‍💻 Task S1.05. Java Generics and Type Constraints  
 **Author:** David Rey  
-**Corrected by:** 
+**Corrected by:** Lois González ([pantalois](https://github.com/Viid21/S1_06_Generics/issues/1))  
 
 ## 📄 Description  
 This project includes several exercises organized by difficulty level, focusing on Java Generics, type safety, bounded type parameters, and the use of interfaces with generic constraints. The goal is to understand how generics improve code reusability, flexibility, and type checking at compile time.
