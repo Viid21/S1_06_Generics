@@ -1,4 +1,4 @@
-# 🧑‍💻 Task S1.05. Java Generics and Type Constraints  
+# 🧑‍💻 Task S1.06. Java Generics and Type Constraints  
 **Author:** David Rey  
 **Corrected by:** Lois González ([pantalois](https://github.com/Viid21/S1_06_Generics/issues/1))  
 
